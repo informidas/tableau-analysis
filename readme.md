@@ -21,3 +21,6 @@ In the winter months there is also alot more rentals around 5pm which is to be e
 ## Customer Types
 While Subscriptions account for the lionshare of the bike rental market, the short-term Customer base is growing at a faster rate. This could be a result of market saturation for subscriptions or that customers find the pay-as-you-go model to be more cost-effective for their needs. Either way, this warrants further investigation <br />
 ![alt text](./images/customer-profile.jpg)
+
+## Age Range - Profile
+A review of the data shows that Bike rentals are quite popular with different age ranges (both with younger and older demographics). Interestingly, the average duration (in mins) of rentals in minutes show that the 16+ teenagers spent the longest periods per rental, while the 30-39 Age Range while being the most popular rental age group average only 9 minutes per rental. This would seem to suggest they are using the rental as a helathy and quick way to get to work from train stations / transportaion hubs. 
