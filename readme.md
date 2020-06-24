@@ -15,7 +15,7 @@ Throughout the day from sunrise to sunset, there are periods of demand around ea
 
 An interesting observation was that in both summer and winter, the Peak periods for bike rentals are 8am and 6pm. <br />
 ### Winter Time
-In the winter months there is also alot more rentals around 5pm which is to be expected with an earlier sunset. An even more interesting trend is that there are more rentals in the winter, especially in the peak periods.This could be a factor of people wanting to avoid walking in colder temperatures, as well as in the summer months - a lot more people take vacation / travel. <br/>
+In the winter months there is also alot more rentals around 5pm which is to be expected with an earlier sunset. An even more interesting trend is that there are more rentals in the winter, especially in the peak periods.This could be a factor of people wanting to avoid walking in colder temperatures, as well as in the summer months - a lot more people take vacation / travel. <br><br>
 ![alt text](./images/winter-peak-rental-times.jpg)
 
 ## Customer Types
