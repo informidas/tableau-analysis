@@ -1,7 +1,7 @@
 ![alt text](./images/citi-bike-station-bikes.jpg)
 
 ###### *A version of this analysis has been posted on Tableau-Public at:* <br />
-[title](https://public.tableau.com/profile/karl.ramsay#!/vizhome/BikeRentalAnalysisforNYNJMetroRegion/BikeRentalAnalysis)
+[Tableau-Public-Workbook](https://public.tableau.com/profile/karl.ramsay#!/vizhome/BikeRentalAnalysisforNYNJMetroRegion/BikeRentalAnalysis)
 
 # Bike Rental Analysis
 ![alt text](./images/bike-rental-zones.jpg)
