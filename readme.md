@@ -24,6 +24,6 @@ While Subscriptions account for the lionshare of the bike rental market, the sho
 
 ## Age Range - Profile
 A review of the data shows that Bike rentals are quite popular with different age ranges (both with younger and older demographics). Interestingly, the average duration (in mins) of rentals in minutes show that the 16+ teenagers spent the longest periods per rental. <br/> <br/>
-![alt text](./images/bike-rentals-by-agerange.jpg)
+![alt text](./images/bike-rentals-agerange.jpg)
 The 30-39 Age Range while being the most popular rental age group average only 9 minutes per rental. This would seem to suggest they are using the rental as a healthy and quick way to get to work from train stations / terminals. 
 ![alt text](./images/bike-rentals-duration-by-agerange.jpg)
