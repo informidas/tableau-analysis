@@ -19,7 +19,7 @@ In the winter months there is also alot more rentals around 5pm which is to be e
 ![alt text](./images/winter-peak-rental-times.jpg)
 
 ## Customer Types
-While Subscriptions account for the lionshare of the bike rental market, the short-term Customer base is growing at a faster rate. This could be a result of market saturation for subscriptions or that customers find the pay-as-you-go model to be more cost-effective for their needs. Either way, this warrants further investigation <br />
+While Subscriptions account for the lionshare of the bike rental market, the short-term Customer base is growing at a faster rate. This could be a result of market saturation for subscriptions or that customers find the pay-as-you-go model to be more cost-effective for their needs. Either way, this warrants further investigation <br /> <br/>
 ![alt text](./images/customer-profile.jpg)
 
 ## Age Range - Profile
